@@ -4,9 +4,8 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJlZjA5YjctNTMxOS00ODA2LTgxNjMtZjY4MzgwZTFhMTc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 
 ## Problem statement
 
